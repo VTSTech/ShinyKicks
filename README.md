@@ -8,7 +8,7 @@ main: mc.v0923.ShinyKicks.ShinyKicks
 
 description: Kick Broadcaster
 
-<img src="https://proxy.spigotmc.org/eb3c177c7d62063a8f763754fb59136e994e7304?url=https%3A%2F%2Fi.gyazo.com%2F264f00f2a5cc74af0a10673a30030d35.png">
+<img src="https://proxy.spigotmc.org/98adf548bc724bc3b482c493bf524ec1f45dc183?url=https%3A%2F%2Fi.gyazo.com%2Fac639855986a399b46efe3f65e41dd2c.png">
 
 A simple plugin that will broadcast whenever a player is kicked
 
